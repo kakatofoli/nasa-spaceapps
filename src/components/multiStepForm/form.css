@@ -1,0 +1,140 @@
+.formCadastroIncidente {
+    margin-top: 20px;
+}
+
+.marcadorPasso {
+    margin-top: 30px;
+}
+
+.cardFormIncidente {
+
+    margin-left: 5px;
+    border-radius: 20px !important;
+    box-shadow: 5px solid black !important;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}
+
+
+.cardIncidenteButton {
+
+    margin-top: 20px !important;
+    text-align: center;
+}
+
+
+.primeirasOpcoes {
+
+    margin-right: 20px !important;
+    width: 450px !important;
+    margin-left: 60px !important;
+    border-radius: 50px !important;
+}
+
+.classDataNascimento {
+
+    margin-top: 17px !important;
+    margin-left: 60px;
+    display: inline-block; 
+}
+
+.formIncidentEmail {
+
+    border-radius: 20% !important;
+    width: 67vw;
+    margin-left: 60px !important;
+}
+
+.linkAcesso{
+
+    margin-left: 100px !important;
+}
+
+
+.tituloProjeto {
+    margin-left: 100px !important;
+    font-weight: 700 !important;
+    font-size: 24px !important;
+
+}
+
+.eliminacao {
+
+    margin-left: 90px !important;
+    display: flex;
+}
+
+.eliminacao > p{
+
+    margin-top: 16px !important;
+}
+
+.resumoProjeto {
+
+    margin-left: 100px !important;
+    text-align: justify;
+    margin-right: 70px !important;
+}
+
+
+.inovacaoNota {
+
+    width: 20.6vw;
+    display: block;
+    margin-left: 55px !important;
+}
+
+.notaAplicabilidade {
+
+    width: 20.6vw;
+    display: block;
+    margin-left: 55px !important;
+}
+
+
+.comentarioInovacao {
+
+    margin-left: 55px !important;
+    width: 90%;
+}
+
+.comentarioAplicabilidade{
+    margin-left: 55px !important;
+    width: 90%;
+}
+
+.viabilidadeEconomica {
+
+    width: 20.6vw;
+    display: block;
+    margin-left: 55px !important;
+}
+
+.comentarioEconomico{
+    margin-left: 55px !important;
+    width: 90%;
+}
+
+.sustentabilidade {
+
+    width: 20.6vw;
+    display: block;
+    margin-left: 55px !important;
+}
+
+.comentarioSustentabilidade{
+    margin-left: 55px !important;
+    width: 90%;
+}
+
+.inclusao {
+
+    width: 20.6vw;
+    display: block;
+    margin-left: 55px !important;
+}
+
+.commentarioInclusao{
+    margin-left: 55px !important;
+    width: 90%;
+}

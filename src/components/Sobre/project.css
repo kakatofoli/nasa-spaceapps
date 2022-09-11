@@ -1,0 +1,23 @@
+.paragrafoCronograma {
+    text-align: start !important;
+}
+
+.divFirstContent {
+    display: flex !important;
+    flex-direction: column !important;
+}
+
+.logoChaliceTAB{
+
+    width: 400px !important;
+    height: 200px !important;
+    margin-left: 150px !important;
+    margin-top: 200px !important;
+}
+
+.textoAcompanhaLogo{
+
+    margin-left: 31vw !important;
+    margin-top: -400px !important;
+    text-align: justify !important;
+}

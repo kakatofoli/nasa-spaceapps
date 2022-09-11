@@ -1,0 +1,40 @@
+.home-logado {
+    background: white;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box !important;
+    position: relative !important;
+    min-height: 100vh !important;
+    width: 100% !important;
+    overflow: hidden !important;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-saudacao {
+    color: black;
+}
+
+.content-home-logado{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+    margin-top: 5vh;
+    z-index: 2;
+}
+
+.content-home-logado-conteudo {
+    margin-top: 20vh;
+
+}
+
+.imagem-fundo {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    z-index: 1 !important;
+    opacity: 0.6;
+    margin-left: 40vw;
+    margin-top: 25vh;
+
+}
