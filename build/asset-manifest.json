@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.367a2ad2.chunk.css",
-  "main.js": "/static/js/main.91b5ed67.chunk.js",
-  "main.js.map": "/static/js/main.91b5ed67.chunk.js.map",
+  "main.js": "/static/js/main.9bad3e70.chunk.js",
+  "main.js.map": "/static/js/main.9bad3e70.chunk.js.map",
   "static/js/1.38df906d.chunk.js": "/static/js/1.38df906d.chunk.js",
   "static/js/1.38df906d.chunk.js.map": "/static/js/1.38df906d.chunk.js.map",
   "static/css/2.559ed356.chunk.css": "/static/css/2.559ed356.chunk.css",
@@ -39,14 +39,14 @@
   "static/media/beePremio.png": "/static/media/beePremio.0f616f07.png",
   "static/media/color-sharp2.png": "/static/media/color-sharp2.42c4dbf6.png",
   "static/media/App.css": "/static/media/footer-bg.e9228c17.png",
-  "static/media/styles.css": "/static/media/revicons.2feb69cc.eot",
+  "static/media/styles.css": "/static/media/revicons.17629a5d.ttf",
   "static/media/arrow1.svg": "/static/media/arrow1.f750170a.svg",
   "static/media/arrow2.svg": "/static/media/arrow2.9070490b.svg",
   "static/media/logo-inteiro.png": "/static/media/logo-inteiro.c5afbe9b.png",
   "static/media/nasa-deitado.png": "/static/media/nasa-deitado.aa50a8e1.png",
-  "static/css/2.559ed356.chunk.css.map": "/static/css/2.559ed356.chunk.css.map",
   "static/css/main.367a2ad2.chunk.css.map": "/static/css/main.367a2ad2.chunk.css.map",
+  "static/css/2.559ed356.chunk.css.map": "/static/css/2.559ed356.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.88d61b2103025fa9278f2eb03d504309.js": "/precache-manifest.88d61b2103025fa9278f2eb03d504309.js",
+  "precache-manifest.34b18903c4cc53893427b929f8793065.js": "/precache-manifest.34b18903c4cc53893427b929f8793065.js",
   "service-worker.js": "/service-worker.js"
 }
